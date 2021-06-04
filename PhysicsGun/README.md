@@ -1,8 +1,10 @@
 ![title](Resources/Titel.png)
 
-This was a game I had incredible fun making while learning the ins and outs of Unreal 4. 
+# Devlog
 
-## Game mechanics
+This was a game I had incredible fun making while learning the ins and outs of Unreal 4. Here i will show some parts of coding i did in Unreal blueprint.
+
+## Key mechanic
 
 I needed objects that I could push around and have act as keys for the doors, and I wanted them to have whatever mesh I wanted, So I made one parent class called KeyObject that all my actual keys could inherit from. 
 
@@ -43,4 +45,4 @@ I added an Impulse multiplier here because the velocity needed to move the objec
 
 Here I also use a cast to check if it's a key object. This game doesnt explore that design space at all but if I could, I would play around with this idea that you can't move other objects with the gun so you have to push a keyobject onto the other object, like Pool meets Half life 2.
 
-This was a look into some interresting parts of coding I did for this project. If anyone wants to know more, email me at Jocke.stenmark@live.se
+This was a look into some interesting parts of coding I did for this project. If anyone wants to know more, email me at Jocke.stenmark@live.se
