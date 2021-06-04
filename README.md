@@ -36,7 +36,7 @@ I also created all the sound and music for the game and made the trailer. <br>
 Full game available on [Itch.Io](https://yrgo-game-creator.itch.io/misfortunate-tadpole) <br>
 [Github repository](https://github.com/JoakimStenmark/GAP20_Misfortune_Tadpole)
 
-### Physics Gun Testing Facility | School project at Yrgo - Gothenburg
+### [Physics Gun Testing Facility | School project at Yrgo - Gothenburg](https://github.com/JoakimStenmark/JoakimStenmark/tree/main/PhysicsGun)
 ##### Mar 2021 – Apr 2021 <br>
 #### First person puzzle game made in Unreal 4. <br>
 I worked as solo developer on this one, relying only on unreals templates and what free graphical assets i could find. The Scripting, level design, audio and music design are all done by me. In this project i also learned alot about materials and how to modify them. <br>
