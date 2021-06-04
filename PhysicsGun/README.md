@@ -1,8 +1,10 @@
 ![title](Resources/Titel.png)
 
 # Devlog
+ 
+This was a game I had incredible fun making while learning the ins and outs of Unreal 4. Be sure to check out the [**trailer**](https://www.youtube.com/watch?v=KvoVAxz1Blc) for it if you haven't.
 
-This was a game I had incredible fun making while learning the ins and outs of Unreal 4. Here i will show some parts of coding i did in Unreal blueprint.
+Here i will show some parts of coding i did in Unreal blueprint.
 
 ## Key mechanic
 
