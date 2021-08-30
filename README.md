@@ -3,29 +3,14 @@
 
 I am Joakim Stenmark, a Game programming student at Yrgo gothenburg and alumni from the Game development programme at Skövde University. 
 
-
-## What I'm working on
-Currently working on *Vampire Nights*, a school project at Yrgo, as a game design lead and programmer. <br>
-I have a background in audio and music so i'm naturally drawn to programming tasks related to that. In Vampire Nights I made an Audio Manager following the singleton pattern. [Link to Code](https://github.com/NicklasHidesjo/GameProjectTwo/blob/main/GameProjectTwo/Assets/Audio/AudioScripts/AudioManager.cs)
-
-This way whenever I want a sound to play in the games code I can type 
-```cs
-  AudioManager.instance.PlaySound(SoundType.EnumOfSound); 
-```
-
-It even works for sounds that should play spatilized to a location by including the gameobject that plays the sound as a parameter. This makes it easy to handle most of this games audio needs without repeating code and all the audiofile references can be centralized to one place.
-
-
-
 ## Game Portfolio
 
 ### Vampire Nights | School project at Yrgo - Gothenburg
 ##### Apr 2021 - Maj 2021 <br>
 #### Stealth game about sucking blood and staying alive
-On this project I worked as a Game design lead. Once again I did all the sound, music and its implementation. More info to come
+On this project I worked as a Game design lead as well as a programmer. My programming work involved creating interactivity between the player character and objects in the world, allowing the player to suck blood from NPCs, carry dead bodies, and hide in barrels. Once again I did all the sound, music and its implementation.
 Full game available on [Itch.Io](https://yrgo-game-creator.itch.io/vampire-nights) <br>
-Noteable scripts (To be added)
-
+[Github repository](https://github.com/NicklasHidesjo/GameProjectTwo)
 
 ### Misfortunate Tadpole | School project at Yrgo - Gothenburg
 ##### Nov 2020 – Jan 2021 <br>
