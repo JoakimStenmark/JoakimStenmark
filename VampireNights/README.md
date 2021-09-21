@@ -8,7 +8,8 @@ I have a background in audio and music so i'm naturally drawn to programming tas
 
 This way whenever I want a sound to play in the games code I can type 
 ```cs
-  AudioManager.instance.PlaySound(SoundType.EnumOfSound); 
+  AudioManager.instance.PlaySound(SoundTypeEnum.ExampleSound); 
 ```
 
-It even works for sounds that should play spatilized to a location by including the gameobject that plays the sound as a parameter. This makes it easy to handle most of this games audio needs without repeating code and all the audiofile references can be centralized to one place.
+It even works for sounds that should play spatilized to a location by including the gameobject that plays the sound as a parameter. This makes it easy to handle most of this game's audio needs without manually adding audiosource components, repeating code, and all the audiofile references can be centralized to one place.
+
